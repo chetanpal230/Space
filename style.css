@@ -842,51 +842,51 @@ body{
 
 /* Home */
 .home{
-    background: url(/assets/home/background-home-mobile.jpg);
+    background-image: url(/assets/home/background-home-mobile.jpg);
 }
 
 @media (min-width:35rem) {
     .home{
-        background: url(/assets/home/background-home-tablet.jpg);
+        background-image: url(/assets/home/background-home-tablet.jpg);
     }
 }
 
 @media(min-width:45rem){
     .home{
-        background: url(/assets/home/background-home-desktop.jpg);
+        background-image: url(/assets/home/background-home-desktop.jpg);
     }  
 }
 
 /* Destination */
 .destination{
-    background: url(/assets/destination/background-destination-mobile.jpg);
+    background-image: url(/assets/destination/background-destination-mobile.jpg);
 }
 
 @media (min-width:35rem) {
     .destination{
-        background: url(/assets/destination/background-destination-tablet.jpg);
+        background-image: url(/assets/destination/background-destination-tablet.jpg);
     }
 }
 
 @media(min-width:45rem){
     .destination{
-        background: url(/assets/destination/background-destination-desktop.jpg);
+        background-image: url(/assets/destination/background-destination-desktop.jpg);
     }  
 }
 
 /* Crew */
 .crew{
-    background: url(/assets/crew/background-crew-mobile.jpg);
+    background-image: url(/assets/crew/background-crew-mobile.jpg);
 }
 
 @media (min-width:35rem) {
     .crew{
-        background: url(/assets/crew/background-crew-tablet.jpg);
+        background-image: url(/assets/crew/background-crew-tablet.jpg);
     }
 }
 
 @media(min-width:45rem){
     .crew{
-        background: url(/assets/crew/background-crew-desktop.jpg);
+        background-image: url(/assets/crew/background-crew-desktop.jpg);
     }  
 }
